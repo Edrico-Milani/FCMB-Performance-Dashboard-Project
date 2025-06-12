@@ -2,6 +2,7 @@
 
 ## Date created
 24th June - 15th July, 2024.
+Updated 05-06-2025
 
 ## Table of Content
 * ATM Cards Collection Review
@@ -10,7 +11,21 @@
 
 
 ## Description
-The primary purpose of this project was to help key management staff take actionable data-driven business decisions, help the bank generate more revenue, gain new customers, maintain old ones, uncover customer pain points, and reveal trends to strengthen future marketing campaigns.
+FCMB's marketing team needed to optimize their account acquisition strategy amid tightening budgets. Initial
+assumptions suggested personal and business accounts performed equally - until the data told a different
+story. Marketing spend was evenly split despite 9.3x PBT difference, low-cost deposits showed untapped
+relationship with sales growth, and card collection trends revealed process inefficiencies
+
+
+Key Performance Metrics
+* Business accounts: 81.5% of target
+* Personal accounts: 72.1% of target (9.4 percentage point gap)
+* Profit Contribution: Business accounts drove ₦11.9B PBT. This represented 90% of total segment profitability
+from just 15% of accounts
+
+Key Questions This Dashboard Answers:
+* "Where are we getting the highest ROI from our marketing spend?"
+* "Which customer segments should we prioritize for growth?"
 
 ## Files and libraries used
 The following files and were used to create this projects:
